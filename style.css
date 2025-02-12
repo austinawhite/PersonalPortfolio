@@ -1,2 +1,9 @@
+/* Background */
+
+body {background-color: beige}
+
 /* Text Formatting */
-h1{color: rgb(46, 139, 43);}
+h1{color: rgb(10, 4, 58);
+    font-size: 18px}
+h2{color: rgb(5, 84, 5)
+    font-size: 14px}
